@@ -1,9 +1,9 @@
 [
   {
-      "nombre": "Google Tts",
-    "autor":" Gemma32",
+    "nombre": "Google Tts",
+    "autor": "Gemma32",
     "version": "1.0",
     "descripcion": "Convierte texto a voz con las voces de google, usando la API de google",
-    "url_descarga": "AQUI_VA_EL_ENLACE_RAW_DEL_ZIP"
+    "url_descarga": "https://github.com/emr32x/Gemma-s-store/raw/refs/heads/main/Google%20TTS_20251103220723.ppk"
   }
 ]    
