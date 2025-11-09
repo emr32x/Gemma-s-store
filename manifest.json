@@ -5,5 +5,12 @@
     "version": "1.0",
     "descripcion": "Convierte texto a voz con las voces de google, usando la API de google",
     "url_descarga": "https://github.com/emr32x/Gemma-s-store/raw/refs/heads/main/Google%20TTS_20251103220723.ppk"
+  },
+  {
+    "nombre": "Teléfono accesible 2.0",
+    "autor": "Gemma32",
+    "version": "2.0",
+    "descripcion": "un teléfono que no solo cuenta con la posivilidad de marcar al contacto, sino que puedes ver tus contactos y agregarlo a favoritos",
+    "url_descarga": "https://github.com/emr32x/Gemma-s-store/raw/refs/heads/main/Tel%C3%A9fono%20accesible%202.0_20251023073903.ppk"
   }
-]    
+]
